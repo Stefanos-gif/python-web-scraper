@@ -12,6 +12,6 @@ This project is a simple Python script that scrapes all the links from a specifi
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Stefanos-gif/python-web-scraper
+   git clone https://github.com/Stefanos-gif/python-web-scraper.git
    pip install requests beautifulsoup4
    cd python-web-scraper
